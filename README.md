@@ -6,7 +6,7 @@ Today you'll be building an app for voting for the cutest animal! You will be
 using a local API and building out the frontend for our app, Flatacuties.
 
 # Flatacuties webiste link
-
+https://fahmyyahmed.github.io/week-2-code-challenge-flatter-cutie-FahmyyAhmed/
 
 ## Demo
 
