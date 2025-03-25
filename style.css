@@ -23,17 +23,20 @@ html, body {
   padding-bottom: 3vh;
 }
 
-#character-bar span {
-  padding: 1%;
+#character-bar p {
   height: 80%;
   width: 8vw;
   display: flex;
   justify-content: center;
   font-size: 3vh;
   align-items: center;
-  border-radius: 2em;
-  border: 1px solid white;
+  border-radius: 40%;
+  border: 2px solid white;
+  color: black;
+  text-align: center;
+  cursor: pointer;
 }
+
 
 .characterInfo{
   height: 550px;
